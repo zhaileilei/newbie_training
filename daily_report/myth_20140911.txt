@@ -1,0 +1,9 @@
+						MY DAILY
+    Today is Thursday, the weather overcast thunder shower. Every day is a 
+new day, every day to have the new harvest. I believe they will have to pay in return.
+    The beginning of the second task learning today. First of all, I got 
+this book device driver. Open the contents of the second chapter, 
+construction and operation of module. I read it from A to Z. Found a lot of things I've learned the content and not the same.So I carefully put it 
+research. Because before you learn knowledge not solid leads now to learn a little bit difficult. In the Makefile in a lot of time. Just started not 
+just read a book, not on the Internet, then not enough to find colleagues tohelp. Finally, to solve the problem. ater because the core reason, my driveris not fully completed the task, but tomorrow will try and finish the task. 
+Come on!    
