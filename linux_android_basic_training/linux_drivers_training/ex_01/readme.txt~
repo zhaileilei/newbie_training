@@ -13,7 +13,7 @@ Time required:
 Purpose:
 	1. Learn module basic conception;
 	2. Learn how to write Makefile and make the kernel module (*.ko file);
-	3. Learn insert module (insmod), remosudve module (rmmod), and list current loaded module (lsmod);
+	3. Learn insert module (insmod), remove module (rmmod), and list current loaded module (lsmod);
 	4. Learn how to read printk debug message (cat /var/log/messages).
 
 Refer books:
