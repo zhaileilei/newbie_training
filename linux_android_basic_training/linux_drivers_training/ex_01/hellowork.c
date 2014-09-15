@@ -1,3 +1,20 @@
+/*
+Filename:
+	hellowork.c
+Copyright (C) 2014 Wistron
+All rights reserved.
+Description:
+	This file is a simple kernel module,make it,and insert/remove from system.
+Author/Created Date:
+	Myth Zhai,Sep15'14
+Modification History:
+
+
+
+Note:
+
+ */
+
 #include<linux/init.h>
 #include<linux/module.h>
 MODULE_LICENSE("GPL");

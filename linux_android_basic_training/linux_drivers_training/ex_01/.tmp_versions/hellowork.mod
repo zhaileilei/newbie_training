@@ -1,0 +1,2 @@
+/home/zhailunlun/project/newbie_training/linux_android_basic_training/linux_drivers_training/ex_01/hellowork.ko
+/home/zhailunlun/project/newbie_training/linux_android_basic_training/linux_drivers_training/ex_01/hellowork.o
