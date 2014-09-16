@@ -1,0 +1,14 @@
+				MY DIARY
+     Today is Tuesday, the weather is sunny to cloudy.Today is the same as
+before 8:30 came to work, after the company began yesterday to review the 
+content.
+     When I review yesterday to knowledge, remembered the last week and a 
+sorting procedure is not yet complete, this time, today on the first solve 
+it. I learned some sort of in the company before, but are not practical to 
+solve the problem. The space complexity and time complexity is relatively 
+poor, the other ranking methods I haven't touched, not very understanding.
+Then I checked the relevant data and code for learning, discovery is a bit 
+difficult. After a day of study and debugging to discover or have little 
+achievements. Although the program is not very good, but there is progress,
+I believe the future will be better. Come on!
+
