@@ -1,0 +1,11 @@
+				MY DIARY
+    Today is Wednesday, the weather is sunny to cloudy. Today although the 
+weather a little hot, but not interrupt me learn enthusiasm. I still go to 
+work on time.
+    Came to the company, to complete the sorting procedure question first. 
+Then began to study the character of the device slowly drive. May be based 
+on C language to me is really almost, I encountered many problems in writing
+the character device driver at. Then the query information, the Internet 
+Baidu still has a little problem. After continuous compilation errors found 
+many. Then slowly to find errors to modify. It seems that his efforts to 
+review the need. Hope can be quickly to catch up. Come on!
