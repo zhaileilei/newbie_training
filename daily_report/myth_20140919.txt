@@ -1,0 +1,11 @@
+				MY DIARY
+    Today is Friday, the weather rain turned cloudy. Although the weather is 
+bad, but I still go to work on time. 
+    Came into the company, I have to recompile the program yesterday, to see 
+if normal running. When I use load command module loading, everything is ok.
+But I use to check the order when test equipment to read and write to the 
+problem. This kind of situation I was also not met, then the Internet query 
+related issues. Online comments that may be you don't have to set the 
+permissions on the files related problems. Then I set the permissions to 
+777. After test again, found reading and writing are successful. Feel good. 
+
