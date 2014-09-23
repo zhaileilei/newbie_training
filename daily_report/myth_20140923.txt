@@ -1,0 +1,10 @@
+			MY DIARY
+    Today is Tuesday, the weather cloudy to rain. Although today's 
+weather is not good, but I still arrive company on time.
+    To begin to enter the working state of the company, carry out 
+a serious study. First began to compile their own written procedures,
+View the results can by hand? If there is a problem is to check the
+problem. Later discovered that the compiler, so I was happy. And then
+began to load the driver, validated in user space. After a day of hard 
+work and learning finally completed hybrid device driver. And then begin
+to review new knowledge point, get ready for tomorrow's learning. Come on!
