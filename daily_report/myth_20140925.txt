@@ -1,0 +1,11 @@
+				MY DIARY
+    Today is Thursday, the weather is sunny to cloudy.Today is still as 
+usual came to the office on time.
+    Came after the company, found that yesterday's program there is little
+question. The final output will always appear error message. So I opened 
+my write function, and then to look for problems. But I took half a day, or 
+not found error. So I surf the Internet search related issues, and then to 
+find the right answer. Then I finally found the problem, I read function 
+condition judgment made a mistake. So I have modified the program, and 
+then compile, finally found the output correctly. This is also a small 
+harvest! Come on!
