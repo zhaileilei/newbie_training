@@ -7,8 +7,8 @@
  *	Description:
  *		This file will Create/Delete the device number and node equipment.
  *		
- *	author/Create Date:
- *		Myth Zhai,sep19'14
+ *	Author/Create Date:
+ *		Myth Zhai,Sep19'14
  *
  *  Modification History:
  *
@@ -18,7 +18,7 @@
  *============================================
  */
 
-/*Include Files*/
+/* Include Files */
 #include<linux/init.h>
 #include<linux/module.h>
 #include<linux/fs.h>
@@ -29,11 +29,10 @@
 #include<linux/mm.h>
 #include<asm/uaccess.h>
 #include<linux/slab.h>
-#include<linux/module.h>
 #include<linux/sched.h>
 #include<linux/device.h>
 
-/*MACROS*/
+/* MACROS */
 #define CHAR_SIZE 0x1000
 #define CHAR_CLEAR 0x1
 #define CHAR_MAJOR 254
@@ -80,8 +79,9 @@ static ssize_t char_read(struct file *filp,char __user *buf,
 	unsigned int  count = size;
 	int ret =0;
 	struct char_dev *dev= filp->private_data;
-	if(p >= CHAR_SIZE)
+	if(p > CHAR_SIZE){
 		return count ? -ENXIO: 0;
+	}
 	if(count >  CHAR_SIZE - p)
 		count = CHAR_SIZE - p;
 	if(copy_to_user(buf,(void*)(dev->mem + p),count)){
@@ -102,9 +102,9 @@ static ssize_t char_write(struct file *filp,const char __user *buf,
 	unsigned int count = size;
 	int ret=0;
 	struct char_dev *dev = filp->private_data;
-	if(p >= CHAR_SIZE)
+	if(p > CHAR_SIZE)
 		return count ? -ENXIO: 0;
-	if(count >CHAR_SIZE - p)
+	if(count > CHAR_SIZE - p)
 		count =	CHAR_SIZE - p;
 	if(copy_from_user(dev->mem + p,buf,count))
 		ret= - EFAULT;
@@ -162,7 +162,7 @@ static int  char_init(void)
 	cls = class_create(THIS_MODULE,"mycharss");
 	device_create(cls,NULL,devno,NULL,"mycharss");
 	return 0;
-    fail_malloc: unregister_chrdev_region(devno,1);
+fail_malloc: unregister_chrdev_region(devno,1);
 	return result;
 }
 /* IMPLEMENTATION */
