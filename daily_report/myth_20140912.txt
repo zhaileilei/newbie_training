@@ -4,8 +4,8 @@ previous two days a little bit early, but they still take the time to get
 ready for work, came to the company opened yesterday to the notes and Book 
 review.
     To this day I know my own professional knowledge to mastery is relatively
-poor, need oneself to make great efforts to mend, I first look atthe Makefile,
-there are many aspects to grasp not good.Later found their ownLinux system 
+poor, need oneself to make great efforts to mend, I first look at the Makefile,
+there are many aspects to grasp not good.Later found their own Linux system 
 problems, their source can't update was found, resulting in theinput method
 and some other than software installed does not come out, I pondered for a 
 long time, search the Internet, through a variety of ways to realize it, but
