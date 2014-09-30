@@ -1,7 +1,12 @@
 					MY DIARY
-	Today is Tuesday, the weather is sunny to cloudy. Time off really fast,
+    Today is Tuesday, the weather is sunny to cloudy. Time off really fast,
 Tomorrow is National Day.
-	Arrived in the company, found that everyone is working very hard. Looks like National Day vacation did not affect everyone's work enthusiasm. I also like other people, also began to enter the busy learning. Today I learn is timer. To understand the timing and delay of its tasks. At first I carefullyto read a book on the content,Let me know how it works? And then to write 
-the corresponding program to achieve the corresponding functions. Through 
-the efforts of today, not finished it. But I believe I can do next. Come on!
+    Arrived in the company, found that everyone is working very hard. 
+Looks like National Day vacation did not affect everyone's work enthusiasm.
+I also like other people, also began to enter the busy learning. Today I
+learn is timer. To understand the timing and delay of its tasks. At first 
+I carefully to read a book on the content, Let me know how it works? And 
+then to write the corresponding program to achieve the corresponding functions. 
+Through the efforts of today, not finished it. But I believe I can do next. 
+Come on!
 
