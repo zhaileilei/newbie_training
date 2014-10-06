@@ -8,7 +8,7 @@
  *		This file will Create/Delete the device number and node equipment.
  *		
  *	Author/Create Date:
- *		Myth Zhai,Sep19'14
+ *		Myth Zhai,Sep25'14
  *
  *  Modification History:
  *
