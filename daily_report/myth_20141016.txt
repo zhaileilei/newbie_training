@@ -1,0 +1,12 @@
+					DIARY
+    Today is Thursday, the weather is sunny to cloudy. Today the weather 
+seems to be a little warmer. So today, my clothes will wear a little less.
+    Today after I came to the company, begin to review knowledge of 
+yesterday. I wrote a sorting program yesterday, but the results are not 
+ideal. So I'm constantly try to improve it,  I hope  can debug better.
+Finally I found the results a little better than before. After I have 
+written procedures, to start learning android. This thing is more complex,
+first of all need to configure the environment variables. So today's slow 
+progress. but I still have the harvest. 
+	
+
