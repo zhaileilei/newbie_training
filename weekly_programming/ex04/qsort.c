@@ -1,13 +1,16 @@
 /*===========================
  *	Filename:
  *	qsort.c
+ *
  *	Copyright (C) 2014 Wistron
  *	All rights reserved.
  *
  *	Description:
- *		This file will achieve the number of output 1
+ *		This file will achieve Insertion sort.
+ *
  *	Author/Create Date:
  *		Myth Zhai, Oct16'14
+ *
  *	Modification History:
  *
  *
