@@ -1,14 +1,16 @@
 /*===========================
  *	Filename:
- *	list.c
+ *		list.c
+ *
  *	Copyright (C) 2014 Wistron
  *	All rights reserved.
  *
  *	Description:
- *		This file will achieve the number of output 1
+ *		This file will achieve employee information.
  *
  *	Author/Create Date:
  *		Myth Zhai, Oct08'14
+ *
  *	Modification History:
  *
  *
