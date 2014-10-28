@@ -1,7 +1,7 @@
-							DIARY
-	Today is Wednesday, the weather is sunny to cloudy. Today the weather 
+				DIARY
+    Today is Wednesday, the weather is sunny to cloudy. Today the weather 
 is good, I feel very comfortable. 
-	Today after I came to the company, I started to learn Android. Because I 
+    Today after I came to the company, I started to learn Android. Because I 
 used to contact less, so my understanding of it is relatively shallow. When
 I was working also met a lot of problems. Then I began to access to information
 , if I still can not resolve, I went to ask my colleagues to help me. After a
