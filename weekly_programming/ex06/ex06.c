@@ -41,7 +41,7 @@ int test(int i){
 	return a[i >> SHIFT] & (1<<(i & MASK));  
 }  
 
-int myRand()   /* 产生一个0~1之间的随机数 */  
+int myRand()    
 {  
 	int num;  
 	num = rand() % 10000000;  
